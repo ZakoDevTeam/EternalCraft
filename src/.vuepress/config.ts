@@ -29,7 +29,7 @@ export default defineUserConfig({
 
   theme: plumeTheme({
     /* 添加您的部署域名, 有助于 SEO, 生成 sitemap */
-    // hostname: 'https://your_site_url',
+    hostname: 'https://mc.zako.net.cn',
 
     /* 文档仓库配置，用于 editLink */
     // docsRepo: '',
@@ -95,12 +95,12 @@ export default defineUserConfig({
     //   annotation: true,   // 启用 annotation 语法  [+label]: content
     //   pdf: true,          // 启用 PDF 嵌入 @[pdf](/xxx.pdf)
     //   caniuse: true,      // 启用 caniuse 语法  @[caniuse](feature_name)
-    //   plot: true,         // 启用隐秘文本语法 !!xxxx!!
+      plot: true,         // 启用隐秘文本语法 !!xxxx!!
       bilibili: true,     // 启用嵌入 bilibili视频 语法 @[bilibili](bid)
     //   youtube: true,      // 启用嵌入 youtube视频 语法 @[youtube](video_id)
     //   artPlayer: true,    // 启用嵌入 artPlayer 本地视频 语法 @[artPlayer](url)
     //   audioReader: true,  // 启用嵌入音频朗读功能 语法 @[audioReader](url)
-    //   icon: { provider: 'iconify' },        // 启用内置图标语法  ::icon-name::
+      icon: { provider: 'fontawesome', assets: ['https://jsdmirrors.aino.cyou/npm/@fortawesome/fontawesome-free@7.1.0/js/all.min.js'] },
     //   table: true,        // 启用表格增强容器语法 ::: table
     //   codepen: true,      // 启用嵌入 codepen 语法 @[codepen](user/slash)
     //   replit: true,       // 启用嵌入 replit 语法 @[replit](user/repl-name)
@@ -122,14 +122,14 @@ export default defineUserConfig({
     //   echarts: true,      // 启用 ECharts
     //   mermaid: true,      // 启用 mermaid
     //   flowchart: true,    // 启用 flowchart
-    //   image: {
+      image: {
     //     figure: true,     // 启用 figure
-    //     lazyload: true,   // 启用图片懒加载
+        lazyload: true,   // 启用图片懒加载
     //     mark: true,       // 启用图片标记
     //     size: true,       // 启用图片大小
-    //   },
+      },
     //   include: true,      // 在 Markdown 文件中导入其他 markdown 文件内容
-    //   imageSize: 'local', // 启用 自动填充 图片宽高属性，避免页面抖动
+      // imageSize: 'local', // 启用 自动填充 图片宽高属性，避免页面抖动
     },
 
     /**

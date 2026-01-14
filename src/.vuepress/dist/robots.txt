@@ -1,0 +1,3 @@
+Sitemap: https://mc.zako.net.cn/sitemap.xml
+User-agent:*
+Disallow:
