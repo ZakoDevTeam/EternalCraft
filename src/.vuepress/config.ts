@@ -16,8 +16,8 @@ import { plumeTheme } from 'vuepress-theme-plume'
 export default defineUserConfig({
   base: '/',
   lang: 'zh-CN',
-  title: 'EternalCraft',
-  description: '新兴多玩法Minecraft群组服',
+  title: 'EternalCraft | 新兴多玩法Minecraft群组服',
+  description: 'Upcoming multi-gameplay Minecraft server',
 
   head: [
     // 配置站点图标
