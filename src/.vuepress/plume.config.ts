@@ -41,20 +41,20 @@ export default defineThemeConfig({
 
   /* 站点页脚 */
   footer: {
-    message: 'Power by <a target="_blank" href="https://v2.vuepress.vuejs.org/">VuePress</a> & <a target="_blank" href="https://theme-plume.vuejs.press">vuepress-theme-plume</a>',
-    copyright: '',
+    message: 'Made with 💖 by Zatursure',
+    copyright: 'Copyright © 2026 ZakoDevTeam. All Rights Reserved.',
   },
 
   /**
    * @see https://theme-plume.vuejs.press/config/theme/#profile
    */
   profile: {
-    avatar: 'https://theme-plume.vuejs.press/plume.png',
+    avatar: '/logo.png',
     name: 'EternalCraft',
-    description: '新兴多玩法Minecraft群组服',
-    // circle: true,
+    description: 'Aufstrebender Multi-Gameplay Minecraft Server',
+    circle: true,
     // location: '',
-    // organization: '',
+    organization: 'ZakoDevTeam',
   },
 
   navbar,
