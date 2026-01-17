@@ -49,7 +49,7 @@ export default defineThemeConfig({
    * @see https://theme-plume.vuejs.press/config/theme/#profile
    */
   profile: {
-    avatar: '/logo.png',
+    avatar: '/logo.jpg',
     name: 'EternalCraft',
     description: 'Upcoming multi-gameplay Minecraft server',
     circle: true,
