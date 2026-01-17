@@ -4,3 +4,9 @@ src/.vuepress/.cache
 src/.vuepress/.temp
 
 pnpm-lock.yaml
+
+src/dist
+
+.DS_Store
+.vscode
+.idea
