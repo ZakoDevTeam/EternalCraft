@@ -51,7 +51,7 @@ export default defineThemeConfig({
   profile: {
     avatar: '/logo.png',
     name: 'EternalCraft',
-    description: 'Aufstrebender Multi-Gameplay Minecraft Server',
+    description: 'Upcoming multi-gameplay Minecraft server',
     circle: true,
     // location: '',
     organization: 'ZakoDevTeam',
