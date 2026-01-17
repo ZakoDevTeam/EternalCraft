@@ -8,7 +8,7 @@ config:
     background: tint-plate
     hero:
       name: EternalCraft
-      tagline: 新兴多玩法Minecraft群组服
+      tagline: Upcoming multi-gameplay Minecraft server
       text: 1.7.2-1.21.12<br>mc.zako.net.cn
       actions:
         -
