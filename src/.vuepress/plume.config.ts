@@ -18,7 +18,7 @@ import collections from './collections'
  * @see https://theme-plume.vuejs.press/config/theme/
  */
 export default defineThemeConfig({
-  logo: '/logo-round.png',
+  logo: '/favicon.png',
 
   appearance: true,  // 配置 深色模式
 
