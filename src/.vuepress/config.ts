@@ -32,14 +32,14 @@ export default defineUserConfig({
     hostname: 'https://mc.zako.net.cn',
 
     /* 文档仓库配置，用于 editLink */
-    // docsRepo: '',
-    // docsDir: 'docs',
-    // docsBranch: '',
+    docsRepo: 'ZakoDevTeam/EternalCraft',
+    docsDir: 'src',
+    docsBranch: 'main',
 
     /* 页内信息 */
-    // editLink: true,
-    // lastUpdated: true,
-    // contributors: true,
+    editLink: true,
+    lastUpdated: true,
+    contributors: true,
     // changelog: false,
 
     /**
