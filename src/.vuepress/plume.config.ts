@@ -67,8 +67,8 @@ export default defineThemeConfig({
   bulletin: {
     layout: 'top-right',
     contentType: 'markdown',
-    title: '公告板标题',
-    content: '公告板内容',
+    title: '公告',
+    content: 'QQ交流群：1076423643',
   },
 
   /* 过渡动画 @see https://theme-plume.vuejs.press/config/theme/#transition */
