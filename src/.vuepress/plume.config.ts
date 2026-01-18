@@ -68,7 +68,7 @@ export default defineThemeConfig({
     layout: 'top-right',
     contentType: 'markdown',
     title: '公告',
-    content: 'QQ交流群：1076423643',
+    content: '服务器仍在持续搭建<br>您可以在右上方加入我们的 QQ 交流群以获取最新消息',
   },
 
   /* 过渡动画 @see https://theme-plume.vuejs.press/config/theme/#transition */
