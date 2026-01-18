@@ -10,7 +10,7 @@ permalink: /qq-group/
 
 ## 群号信息
 
-> **官方QQ群号：** `1076423643`
+> **官方QQ群号：** `1076423643`<br>
 > 或点[我](https://qm.qq.com/q/IdA1DVIIam)加入交流群
 
 ## 加入我们
