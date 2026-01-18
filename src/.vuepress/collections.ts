@@ -56,9 +56,9 @@ const docs = defineCollection({
   // 文档标题，它将用于在页面的面包屑导航中显示
   title: '文档',
   // 手动配置侧边栏结构
-  sidebar: ['', 'foo', 'bar'],
-  // 根据文件结构自动生成侧边栏
-  // sidebar: 'auto',
+  sidebar: [
+    { text: '快速开始', prefix: 'guide', collapsed: false, items: ['about', 'join'] },
+  ],
 })
 
 /**
